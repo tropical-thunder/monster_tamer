@@ -9,6 +9,19 @@
 でご確認ください。
 
 
+ソースコードに１クリックで飛べるように主要なファイルへのリンクを
+以下に貼っておきます。
+
+<p>
+    <a href="https://github.com/tropical-thunder/monster_tamer/blob/master/app/Http/Controllers/MonsterDataController.php">コントローラー関連ファイルはこちらです</a>
+</p>
+<p>
+    <a href="https://github.com/tropical-thunder/monster_tamer/blob/master/routes/web.php">ルーティング関連ファイルはこちらです</a>
+</p>
+<p>
+    <a href="https://github.com/tropical-thunder/monster_tamer/tree/master/resources/views">ビュー関連ファイルはこちらです</a>
+</p>
+
 本アプリケーションで実装した機能は、
 
 ・DBに捕まえたモンスターを書き込む<br>
