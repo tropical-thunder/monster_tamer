@@ -5,7 +5,7 @@
 
 
 実際のアプリ操作画面は、操作画面を動画で撮ったので、
-<a href="https://tropical-thunder.github.io/portfolio/">コチラ</a>
+<a href="https://tropical-thunder.github.io/portfolio/#portfolio1">コチラ</a>
 でご確認ください。
 
 
