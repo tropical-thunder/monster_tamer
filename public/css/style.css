@@ -1,0 +1,150 @@
+body {
+	padding:10px;
+}
+
+#main_view {
+	border:1px solid black;
+	
+	border-radius:5px;
+	margin-bottom:5px;	
+	padding:10px;
+}
+
+#text_view {
+	border:1px solid black;
+	width:70%;
+	border-radius:5px;
+	padding:10px;
+	margin-right:5px;
+}
+
+#action_view {
+	border:1px solid black;
+	width:30%;
+	border-radius:5px;
+	padding:10px;	
+}	
+
+.flex {
+	display:flex;
+}
+
+
+
+.bokujou_left {
+	text-align:left;
+	padding: 30px 0px 30px 90px;
+	width:40%;
+}
+
+.bokujou_right {
+	width:60%;
+	text-align:center;
+}
+
+
+.zukan_left {
+	text-align:left;
+	padding: 30px 0px 30px 90px;
+	width:40%;
+}
+
+.zukan_right {
+	width:60%;
+	text-align:center;
+}
+
+.monster_view {
+	text-align:center;
+	background-image:url('images/battle.png');
+	background-size:cover;
+	padding:15px;
+	min-height:330px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.zukan_view {
+	background-image:url('images/zukan.jpg');
+	background-size:cover;
+	padding:30px;
+	min-height:330px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+    align-items: flex-end;
+    text-indent:65px;
+}
+
+.zukan_item {
+	flex-basis:33%;
+}
+.home_view {
+	background-image:url('images/home.jpg');
+	background-size:cover;
+	padding:30px;
+	min-height:330px;
+	background-position:10% 35%;
+}
+
+.zukan_detail_view {
+	background-image:url('images/zukan1.jpg');
+	background-size:cover;
+	padding:30px;
+	min-height:330px;
+}
+
+.zukan_title {
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
+	flex-basis:100%;
+	text-indent:0px;
+}
+
+.bokujou_view {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	background-image:url('images/bokujou.png');
+	background-size:cover;
+	background-position:bottom;
+	padding-top:80px;
+	min-height:300px;
+}
+
+.bokujou_item img{
+	max-height:80px;
+	display:block;
+	margin:auto;
+}
+
+.bokujou_item  {
+	text-align:center; 
+	margin: 0 3px;
+
+}
+
+.bokujou_item img:hover {
+	position:relative;
+	top:-10px;
+}
+
+.bokujou_item a {
+	color:white 
+}
+
+.bokujou_detail {
+	background-image:url('images/bokujou.png');
+	background-size:cover;
+	background-position:bottom;
+	padding:30px 0;
+}
+
+.btn_custom1 {
+	margin-top:5px;
+}
+.btn_custom2 {
+	margin-bottom:15px;
+}
