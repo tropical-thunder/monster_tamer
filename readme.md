@@ -22,7 +22,7 @@
     <a href="https://github.com/tropical-thunder/monster_tamer/tree/master/resources/views">ビュー関連ファイルはこちらです</a>
 </p>
 <br><br>
-本アプリケーションで実装した機能は、<br>
+本アプリケーションで実装した機能は、<br><br>
 
 <ul>
     <li>DBに捕まえたモンスターを書き込む</li><br>
