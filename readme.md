@@ -7,6 +7,8 @@
 
 ソースコードに１クリックで飛べるように主要なファイルへのリンクを
 以下に貼っておきます。<br><br>
+それ以外はLaravelインストール時にインストールされる
+テンプレートファイルなので見ても参考にはならないです。
 
 <p>
     <a href="https://github.com/tropical-thunder/monster_tamer/blob/master/app/Http/Controllers/MonsterDataController.php">コントローラー関連ファイルはこちらです</a>
